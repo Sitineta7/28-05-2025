@@ -21,6 +21,6 @@ function atualizarContador(){
 
      function showImage(index){
           images.forEach((img)) => {
-               inmg
+               
           }
      }
